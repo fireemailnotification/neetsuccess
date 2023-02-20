@@ -1,0 +1,38 @@
+{
+    "short_name": "Neet Success Tips",
+    "name": "Neet Success Tips",
+    "icons": [
+      {
+        "src": "./icons/icon-192x192.png",
+        "type": "image/png",
+        "sizes": "192x192"
+      },
+      {
+        "src": "./icons/icon-192x192.png",
+        "type": "image/png",
+        "sizes": "192x192",
+        "purpose":"maskable"
+      },
+      {
+        "src": "./icons/icon-512x512.png",
+        "type": "image/png",
+        "sizes": "512x512",
+        "purpose":"maskable"
+      },
+      
+      {
+        "src": "./icons/icon-512x512.png",
+        "type": "image/png",
+        "sizes": "512x512",
+        "purpose":"maskable"
+      }
+    ],
+    "start_url": "./main.html",
+    "background_color": "#000",
+    "display": "fullscreen",
+    "scope":"./",
+    "theme_color": "black",
+    "description": "Welcome to Neet Success Tips",
+    "orientation": "portrait-primary"
+    
+  }
